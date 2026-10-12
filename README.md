@@ -11,10 +11,11 @@ The repository contains the project dataset, analysis code, and final report.
 
 ## Technologies Used
 
-- **SQL:** Data querying and analysis
-- **Python:** Data analysis and reporting
-- **R:** Statistical analysis
-- **HTML:** Exported Python analysis output
+- **SQL:** Data querying, database management, and analysis
+- **Python:** Data preprocessing, statistical analysis, and visualization
+- **R:** Statistical analysis and data visualization
+- **AWS (Amazon S3 & AWS Glue DataBrew):** Cloud-based data storage, data preparation, cleaning, and statistical profiling
+- **HTML:** Exported Python analysis and visualization output
 
 ## Repository Structure
 
